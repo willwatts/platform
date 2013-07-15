@@ -104,3 +104,5 @@ The 'latest_stable' branch will always point to the most recent public release.
 
 The CASH Music platform is (c) 2010-2012 CASH Music, licensed under the 
 [AGPL license](http://www.gnu.org/licenses/agpl-3.0.html)
+
+# Testing Branch Addition
